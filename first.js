@@ -1,4 +1,4 @@
 console.log("Hello world!");
 
-var s = 3;
+var s = 2;
 console.log(s>4);
